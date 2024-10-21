@@ -13,7 +13,3 @@
 .externalNativeBuild
 .cxx
 local.properties
-# Ignore everything in the app directory
-app/*
-# But do not ignore the contents of the app directory
-!app/**/*
