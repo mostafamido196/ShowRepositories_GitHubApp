@@ -14,8 +14,8 @@
 - Animation
 - Pagination
 
-![WhatsApp Image 2024-10-13 at 23 58 50_95a2010d](https://github.com/user-attachments/assets/f757b349-0d14-4e0c-bc52-f4e818049605)
-![WhatsApp Image 2024-10-13 at 23 58 50_ff07df1c](https://github.com/user-attachments/assets/a80f7411-a89c-4c27-9ea7-17f53207a6d7)
-![WhatsApp Image 2024-10-13 at 23 58 50_25351818](https://github.com/user-attachments/assets/d88c4dac-e724-4c34-8545-102e87859414)
-![WhatsApp Image 2024-10-13 at 23 58 50_a412d6b3](https://github.com/user-attachments/assets/482c89a1-7e8a-41f9-bd62-2983c66382ea)
-![WhatsApp Image 2024-10-13 at 23 58 50_5716064d](https://github.com/user-attachments/assets/ef27e0ae-9211-4845-9e9f-02bef6b7eeb9)
+
+![WhatsApp Image 2024-10-21 at 13 38 51_d8670118](https://github.com/user-attachments/assets/bb2200c8-0794-4299-90e1-810af2094210)
+![WhatsApp Image 2024-10-21 at 13 38 51_2db37bf4](https://github.com/user-attachments/assets/8fa27cf2-154f-40f9-9ad9-9d3426fdb001)
+![WhatsApp Image 2024-10-21 at 13 38 51_d634ff74](https://github.com/user-attachments/assets/f532207d-78ed-4d21-877f-1df5dfc1da61)
+![WhatsApp Image 2024-10-21 at 13 38 51_2040e1c8](https://github.com/user-attachments/assets/e134933c-0b9f-4f30-a158-1a5686b1284c)
